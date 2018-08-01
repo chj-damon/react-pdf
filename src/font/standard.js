@@ -13,4 +13,5 @@ export default [
   'Times-BoldItalic',
   'Symbol',
   'ZapfDingbats',
+  'SimSun',
 ];
